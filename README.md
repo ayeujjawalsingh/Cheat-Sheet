@@ -1,10 +1,11 @@
 # Cheat-Sheet of all Programming Tools
-# Hi, I'm Ujjawal! 👋
+# Hi, I'm Ujjawal Singh! 👋
 
 ## 🚀 About Me
 I'm an Engineering Student & A Full Stack Web Developer
 
 ## Cheat Sheet
+```
 -HTML
 -CSS
 -JAVASCRIPT
@@ -19,7 +20,7 @@ I'm an Engineering Student & A Full Stack Web Developer
 -C++
 -JAVA
 -PYTHON
-
+```
 ## Feedback
 
 If you have any feedback, please reach out to us at ayeujjawalsingh@gmail.com
